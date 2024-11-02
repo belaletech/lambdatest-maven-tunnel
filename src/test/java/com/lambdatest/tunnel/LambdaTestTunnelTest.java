@@ -18,7 +18,7 @@ public class LambdaTestTunnelTest {
 	WebDriver driver = null;
 	public static String status = "passed";
 	String username="belalahmad";
-	String access_key="sZhRHD9cmkV1nXNWEUw7psGAxRgN84ugdKqGMforKfXJCQhIU7";
+	String access_key="jQ9OsCJftyrSYZhq6xnBHFSRliekbXO3IIU4ptFXpQhSiOZNEe";
 
 //	String username = System.getenv("LT_USERNAME");
 //	String access_key = System.getenv("LT_ACCESS_KEY");
